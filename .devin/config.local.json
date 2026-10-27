@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(taskkill)",
+      "Exec(npm run)",
+      "Exec(npx tsc)"
+    ]
+  }
+}

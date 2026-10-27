@@ -1,0 +1,27 @@
+[
+  {
+    "id": "d68b6847-e23c-450d-a9bb-23d472851fba",
+    "username": "admin",
+    "name": "Administrador Hossidev",
+    "email": "water.report@hossidev.com",
+    "passwordHash": "$2b$10$vKRYbHW6bpb7E.5WVnEIF.qnjJAQSlhw50PiJwSgQ2S2xfskPvDfK",
+    "role": "admin",
+    "permittedTankIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "createdAt": "2026-10-05T09:26:53.866Z",
+    "lastLogin": "2026-10-21T14:09:13.502Z",
+    "active": true,
+    "permissions": [
+      "*"
+    ],
+    "updatedAt": "2026-10-21T15:20:32.729Z",
+    "createdBy": null,
+    "lastLoginAt": "2026-10-21T14:09:13.502Z"
+  }
+]
